@@ -1,0 +1,4 @@
+{
+  "RegressPost": "https://reqres.in/api/users",
+  "RegressGet": "https://reqres.in/api/users/"
+}
